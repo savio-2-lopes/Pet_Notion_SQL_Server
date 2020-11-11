@@ -43,6 +43,7 @@
 
 <br>
 
+🚨 Modifique a conexão do SQL Server para a de sua máquina
 ```bash
 # Entre no arquivo function.cs 
 # Modifique o código abaixo com a conexão local do SQL Server de sua máquina
