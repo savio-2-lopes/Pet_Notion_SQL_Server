@@ -44,11 +44,11 @@
 <br>
 
 ```bash
-# Entre no arquivo function.cs e modifique o código abaixo com a conexão local do SQL Server de sua máquina
-$ con.ConnectionString    = "data source =DESKTOP-GJ8HRSA\\SQLEXPRESS;
+# Entre no arquivo function.cs 
+# Modifique o código abaixo com a conexão local do SQL Server de sua máquina
+$ con.ConnectionString = "data source =DESKTOP-GJ8HRSA\\SQLEXPRESS;
 
 ```
-<br>
 <br>
 
 <a id="layout"></a>
